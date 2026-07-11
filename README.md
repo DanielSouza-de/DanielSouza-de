@@ -72,7 +72,7 @@ Transformando ideias em aplicações web modernas.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DanielSouza-de&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -82,7 +82,7 @@ Transformando ideias em aplicações web modernas.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/DanielSouza-de/DanielSouza-de/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -115,6 +115,6 @@ Transformando ideias em aplicações web modernas.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=DanielSouza-de&color=blue&style=flat-square"/>
 
 </p>
